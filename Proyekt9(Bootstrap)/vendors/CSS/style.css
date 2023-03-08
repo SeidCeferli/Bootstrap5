@@ -1,0 +1,8 @@
+.nav-link.active{
+    color: red !important;
+}
+
+#home {
+    background-image: url(https://cdn.pixabay.com/photo/2015/01/08/18/26/man-593333_960_720.jpg);
+    background-size: cover;
+}
